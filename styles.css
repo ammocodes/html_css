@@ -80,3 +80,52 @@ body {
     width: 100%;
   }
 }
+
+/* Add the following class to your existing styles.css */
+
+.opening-times {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.opening-times p {
+  font-size: 18px;
+  color: #fff;
+  margin-bottom: 5px;
+}
+
+.opening-times ul {
+  list-style: none;
+}
+
+.opening-times li {
+  font-size: 16px;
+  color: #fff;
+  margin-bottom: 2px;
+}
+
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.social-icons a {
+  color: #1affc8;
+  font-size: 24px;
+  margin-right: 10px;
+  text-decoration: none;
+}
+
+.social-icons a:hover {
+  color: #f2a30c;
+}
+
+/* center footer */
+.footer {
+  text-align: center;
+  margin-top: 20px;
+  
+}
+
