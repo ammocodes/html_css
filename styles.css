@@ -126,6 +126,15 @@ body {
 .footer {
   text-align: center;
   margin-top: 20px;
-  
+
 }
 
+#cwc {
+  color: #1affc8;
+  text-decoration: none;
+}
+
+/* make cwc hover highlight */
+#cwc:hover {
+  color: #f2a30c;
+}
